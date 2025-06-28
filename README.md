@@ -54,4 +54,5 @@ To develop a beginner-friendly weather application using **HTML**, **CSS**, and 
 * Easy to build and expand (add icons, forecast, etc.)
 * Great starting point for web development projects
 
-
+# OUTPUT:
+![Image](https://github.com/user-attachments/assets/6b8a0d80-a83a-4b71-86ea-b111934a5791)
